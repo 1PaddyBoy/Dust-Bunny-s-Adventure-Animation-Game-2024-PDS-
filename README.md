@@ -39,3 +39,5 @@ For contacts of any designers or programmers please reach out to Princeton Day S
 Game originally presented with music from Kirk Osamayo ("not added to repository for credit")
 
 Finished May 2024
+
+Images too large to add to github, for all assets contact me directly or download and unzip from release binary 
