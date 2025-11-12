@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=pathBox
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ pathBox\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=isGreen\ spaces\ x\ y
+comment1.target=pathBox(boolean,\ boolean[][],\ int,\ int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ pathBox\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=grid
+comment2.target=boolean\ hasPath(boolean[][])
+comment3.params=grid\ row\ col
+comment3.target=boolean\ searchPath(boolean[][],\ int,\ int)
+comment4.params=grid\ row\ col
+comment4.target=boolean\ isValid(boolean[][],\ int,\ int)
+comment5.params=a
+comment5.target=void\ howMany(boolean[][])
+comment6.params=
+comment6.target=void\ function()
+comment7.params=
+comment7.target=void\ special()
+comment8.params=
+comment8.target=void\ act()
+numComments=9

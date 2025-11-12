@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=correct
+comment1.target=Card(boolean)
+comment10.params=
+comment10.target=void\ special()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ refresh()
+comment4.params=
+comment4.target=void\ function()
+comment5.params=
+comment5.target=void\ start()
+comment6.params=
+comment6.target=void\ showCards()
+comment7.params=
+comment7.target=void\ zoom()
+comment8.params=
+comment8.target=void\ flip()
+comment9.params=
+comment9.target=void\ hide()
+numComments=11
