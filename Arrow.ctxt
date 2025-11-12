@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Arrow
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ arrow\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=image\ soundArrow\ type
+comment1.target=Arrow(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkTouching()
+comment3.text=Jake\:\ Checks\ if\ the\ arrow\ is\ touching\ the\ player\ arrow,\ and\ if\ the\ arrow\ \r\n\ \ \ \ \ key\ is\ pressed\ which\ will\ remove\ the\ arrow\ and\ increase\ the\ score.\ Also\ makes\r\nthe\ arrow\ change\ color\ if\ it\ is\ overlapping\ the\ player\ arrow
+comment4.params=
+comment4.target=boolean\ tooManyKeysDown()
+numComments=5
